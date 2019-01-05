@@ -36,7 +36,7 @@ header ul li {
   height: 25px;
   border-radius: 8px;
   background-color: #e9e9e9;
-  margin: -190px;
+  margin: -195px;
   border: 0px;
 
 }
@@ -53,3 +53,11 @@ header ul li {
 	font-size: 1.9em;
 	margin-left: 30px;
 }
+
+#nav-buttons a:hover {
+	color: red;
+
+}
+
+
+
